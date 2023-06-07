@@ -11,11 +11,11 @@ Each branch consist of particular architecture pattern in extended way sequence 
 
     Strategic DDD: Introduces boundaries for domain model. Single Bounded context per each domain
 
-               * What is a Domain? Operational area of your application. e.g;  Online food ordering
+      * What is a Domain? Operational area of your application. e.g;  Online food ordering
 
-               * Bounded Context: Central pattern in DDD. Boundary within a Domain
+      * Bounded Context: Central pattern in DDD. Boundary within a Domain
 
-               * Ubiquitous Language: Common language used by domain experts and developers
+      * Ubiquitous Language: Common language used by domain experts and developers
 
     Tactical DDD: Implementation patterns.
 
